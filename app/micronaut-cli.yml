@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.mangelo.store
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, hibernate-jpa, http-client, jdbc-tomcat, junit, kotlin, kotlin-application, logback, mysql, netty-server, openapi, readme, redis-lettuce, shade, testcontainers, yaml]
