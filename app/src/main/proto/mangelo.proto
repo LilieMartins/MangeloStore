@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package br.com.mangelo.store.proto;
+
+import "google/api/annotations.br.com.mangelo.store.proto";
